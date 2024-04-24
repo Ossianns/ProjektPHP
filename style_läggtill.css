@@ -1,0 +1,10 @@
+.rubrik {
+    text-align: center;
+}
+
+.wrapper {
+    height: 60vh;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}

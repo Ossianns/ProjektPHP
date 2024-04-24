@@ -1,0 +1,18 @@
+.tabell {
+    border: 1px solid black;
+}
+
+.wrapper {
+    margin: 15px;
+    height: 80vh;
+    display: grid;
+    grid-template-rows: auto 5fr 1fr;
+}
+
+.rubrik {
+    text-align: center;
+}
+
+.lastrow {
+    display: flex;
+}
